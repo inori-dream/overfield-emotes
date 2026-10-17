@@ -1,0 +1,4 @@
+# .gitattributes — 二进制文件不做换行/差异处理
+
+*.gif binary
+*.zip binary
